@@ -26,7 +26,7 @@ A C program that uses the `ncurses` library to interactively collect user inputs
 
     ```sh
     apt-get install libncurses5-dev
-    gcc -o smbconfig smbconfig.c -lncurses
+    gcc -o smbconfig smb_config_editor.c -lncurses
     ```
 
 ## Usage

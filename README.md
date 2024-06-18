@@ -18,7 +18,7 @@ A C program that uses the `ncurses` library to interactively collect user inputs
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/samba-config-generator.git
+    git clone https://github.com/erwanclx/SambaGUI.git
     cd samba-config-generator
     ```
 
